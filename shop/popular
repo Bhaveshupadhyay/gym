@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "name": "Muscle Blaze",
     "thumb": "https://img5.hkrtcdn.com/26625/prd_2662414-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Kesar-Kulfi_o.jpg",
     "description": "Muscleblaze is a....",
@@ -27,6 +28,7 @@
     ]
   },
   {
+    "id": "2",
     "name": "MyProtein Creatine",
     "thumb": "https://img5.hkrtcdn.com/26625/prd_2662414-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Kesar-Kulfi_o.jpg",
     "description": "Muscleblaze is a....",
