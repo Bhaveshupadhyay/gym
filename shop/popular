@@ -50,17 +50,26 @@
       {
         "qty": "1000",
         "price": "2700",
-        "flavour": "Chocolate"
+        "flavours": [
+          "Chocolate",
+          "Cookies & Cream"
+          ]
       },
       {
         "qty": "2000",
         "price": "3500",
-        "flavour": "Chocolate"
+        "flavours": [
+          "Chocolate",
+          "Cookies & Cream"
+          ]
       },
       {
         "qty": "2000",
         "price": "3500",
-        "flavour": "Chocolate"
+        "flavours": [
+          "Chocolate",
+          "Cookies & Cream"
+          ]
       }
     ]
   }
