@@ -11,6 +11,15 @@
     ],
     "prices": [
       {
+        "qty": "800",
+        "price": "2200",
+        "flavours": [
+          "Chocolate",
+          "Cookies & Cream",
+          "Vanilla"
+          ]
+      },
+      {
         "qty": "1000",
         "price": "2700",
         "flavours": [
@@ -21,15 +30,15 @@
       {
         "qty": "2000",
         "price": "3500",
-         "flavours": [
-          "Chocolate",
+        "flavours": [
+          "Vanilla",
           "Cookies & Cream"
           ]
       },
       {
-        "qty": "2000",
-        "price": "3500",
-         "flavours": [
+        "qty": "4000",
+        "price": "5000",
+        "flavours": [
           "Chocolate",
           "Cookies & Cream"
           ]
@@ -48,19 +57,37 @@
     ],
     "prices": [
       {
+        "qty": "800",
+        "price": "2200",
+        "flavours": [
+          "Chocolate",
+          "Cookies & Cream",
+          "Vanilla"
+          ]
+      },
+      {
         "qty": "1000",
         "price": "2700",
-        "flavour": "Chocolate"
+        "flavours": [
+          "Chocolate",
+          "Cookies & Cream"
+          ]
       },
       {
         "qty": "2000",
         "price": "3500",
-        "flavour": "Chocolate"
+        "flavours": [
+          "Vanilla",
+          "Cookies & Cream"
+          ]
       },
       {
-        "qty": "2000",
-        "price": "3500",
-        "flavour": "Chocolate"
+        "qty": "4000",
+        "price": "5000",
+        "flavours": [
+          "Chocolate",
+          "Cookies & Cream"
+          ]
       }
     ]
   }
