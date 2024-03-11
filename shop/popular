@@ -1,94 +1,185 @@
 [
   {
     "id": "1",
-    "name": "Muscle Blaze",
+    "name": "MuscleBlaze Biozyme Performance Whey Protein",
     "thumb": "https://img5.hkrtcdn.com/26625/prd_2662414-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Kesar-Kulfi_o.jpg",
-    "description": "Muscleblaze is a....",
-    "category": "Protein",
+    "description": "MuscleBlaze Biozyme Performance Whey is crafted exclusively for fitness and muscle-building champions who want their protein supplement to be as effective as their efforts. It is scientifically designed with Enhanced Absorption Formula (EAF®) to maximize the bioavailability of protein for the Indian bodies. It’s a part of MB’s pioneering innovation- the BIOZYME series. ",
+    "category": "Whey Protein",
     "images": [
-      "https://img7.hkrtcdn.com/26625/prd_2662416-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Kesar-Kulfi_o.jpg",
-      "https://img7.hkrtcdn.com/17182/prd_1718166-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Ice-Cream-Chocolate_o.jpg"
+     "https://img4.hkrtcdn.com/27430/bnr_2742904_o.jpg" ,
+     "https://img4.hkrtcdn.com/31199/prd_3119843-MuscleBlaze-Biozyme-Performance-Whey-4.4-lb-Rich-Chocolate_o.jpg",
+     "https://img9.hkrtcdn.com/26932/prd_2693168-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Rich-Milk-Chocolate_o.jpg",
+     "https://img4.hkrtcdn.com/14687/prd_1468663-MuscleBlaze-Biozyme-Performance-Whey-4.4-lb-Chocolate-Hazelnut_o.jpg"
     ],
     "prices": [
       {
-        "qty": "800",
+        "qty": "500",
         "price": "2200",
         "flavours": [
-          "Chocolate",
-          "Cookies & Cream",
-          "Vanilla"
+          "Blue Tokai Coffee",
+          "Choco Banana Smoothie",
+          "Choco Cinnamon Swirl",
+          "Chocolate Cake",
+          "Chocolate Hazelnut",
+          "Chocolate Peanut Butter",
+          "French Vanilla Creme",
+          "Kesar Thandai",
+          "Magical Mango",
+          "Red Velvet",
+          "Rich Chocolate",
+          "Triple Chocolate"
           ]
       },
       {
         "qty": "1000",
         "price": "2700",
         "flavours": [
-          "Chocolate",
-          "Cookies & Cream"
+          "Blue Tokai Coffee",
+          "Choco Banana Smoothie",
+          "Choco Cinnamon Swirl",
+          "Chocolate Cake",
+          "Chocolate Hazelnut",
+          "Chocolate Peanut Butter",
+          "French Vanilla Creme",
+          "Kesar Thandai",
+          "Magical Mango",
+          "Red Velvet",
+          "Rich Chocolate",
+          "Triple Chocolate"
           ]
       },
       {
         "qty": "2000",
         "price": "3500",
         "flavours": [
-          "Vanilla",
-          "Cookies & Cream"
+          "Blue Tokai Coffee",
+          "Choco Banana Smoothie",
+          "Choco Cinnamon Swirl",
+          "Chocolate Cake",
+          "Chocolate Hazelnut",
+          "Chocolate Peanut Butter",
+          "French Vanilla Creme",
+          "Kesar Thandai",
+          "Magical Mango",
+          "Red Velvet",
+          "Rich Chocolate",
+          "Triple Chocolate"
           ]
       },
       {
         "qty": "4000",
         "price": "5000",
         "flavours": [
-          "Chocolate",
-          "Cookies & Cream"
+          "Blue Tokai Coffee",
+          "Choco Banana Smoothie",
+          "Choco Cinnamon Swirl",
+          "Chocolate Cake",
+          "Chocolate Hazelnut",
+          "Chocolate Peanut Butter",
+          "French Vanilla Creme",
+          "Kesar Thandai",
+          "Magical Mango",
+          "Red Velvet",
+          "Rich Chocolate",
+          "Triple Chocolate"
           ]
       }
     ]
   },
   {
     "id": "2",
-    "name": "MyProtein Creatine",
-    "thumb": "https://img5.hkrtcdn.com/26625/prd_2662414-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Kesar-Kulfi_o.jpg",
-    "description": "Muscleblaze is a....",
-    "category": "Creatine",
+    "name": "MyProtein Impact Whey Protein",
+    "thumb": "https://static.thcdn.com/productimg/1600/1600/13034973-2084934873379645.jpg",
+    "description": "Created with premium whey, it’s packed with an impressive 20g of protein (unflavored version) per serving, delivering the protein you need from a high-quality source.                   And where does this come from? The same cows that produce your milk and cheese – simply filtered, evaporated and spray-dried to produce all-natural nutritionals.                           It also provides you with all the essential amino acids, including 4.5g of BCAAs providing the building blocks for new protein – before, during, and after workouts – as well as 3.6g of glutamine.With just 1.9g of fat and 1g of carbs, Impact Whey Protein is the perfect way to support all your training goals. And it comes in a range of indulgent, mouthwatering flavours, too!",
+    "category": "Whey Protein",
     "images": [
-      "https://img7.hkrtcdn.com/26625/prd_2662416-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Kesar-Kulfi_o.jpg",
-      "https://img7.hkrtcdn.com/17182/prd_1718166-MuscleBlaze-Biozyme-Whey-Protein-4.4-lb-Ice-Cream-Chocolate_o.jpg"
+      "https://5.imimg.com/data5/SELLER/Default/2021/1/NP/OU/PS/121814252/my-protein-impact-whey-protein-5-5-lbs-2-5-kg--500x500.jpg",
+      "https://static.thcdn.com/productimg/1600/1600/11654621-4524934868470313.jpg"
     ],
     "prices": [
       {
-        "qty": "800",
+        "qty": "1000",
         "price": "2200",
         "flavours": [
-          "Chocolate",
-          "Cookies & Cream",
-          "Vanilla"
+          "Chocolate Brownie",
+          "Chocolate Mint",
+          "Chocolate Smooth",
+          "Coffee Caramel",
+          "Cookies and Cream",
+          "Frosted Cereal Milk",
+          "Keventers Chocolate Hazelnut",
+          "Kulfi",
+          "Mango",
+          "Strawberry Cream"
           ]
       },
       {
-        "qty": "1000",
+        "qty": "2500",
         "price": "2700",
         "flavours": [
-          "Chocolate",
-          "Cookies & Cream"
+          "Chocolate Brownie",
+          "Chocolate Mint",
+          "Chocolate Smooth",
+          "Coffee Caramel",
+          "Cookies and Cream",
+          "Frosted Cereal Milk",
+          "Keventers Chocolate Hazelnut",
+          "Kulfi",
+          "Mango",
+          "Strawberry Cream"
           ]
       },
       {
-        "qty": "2000",
+        "qty": "100 Servings",
         "price": "3500",
         "flavours": [
-          "Vanilla",
-          "Cookies & Cream"
+           "Chocolate Brownie",
+          "Chocolate Mint",
+          "Chocolate Smooth",
+          "Coffee Caramel",
+          "Cookies and Cream",
+          "Frosted Cereal Milk",
+          "Keventers Chocolate Hazelnut",
+          "Kulfi",
+          "Mango",
+          "Strawberry Cream"
+          ]
+      }
+    ]
+  },
+ {
+    "id": "3",
+    "name": "MuscleTech Nitro-tech Whey",
+    "thumb": "https://www.muscletech.in/wp-content/uploads/2023/12/nitro-tech-cappuccino-907g-1.webp",
+    "description": "Unlock Your Maximum Potential with MuscleTech Nitro-Tech Whey Protein Powder                                    Elevate your fitness journey with MuscleTech Nitro-Tech, the pinnacle of protein formulations designed to ignite your muscle-building potential like never before. Crafted through rigorous scientific research, Nitro-Tech is a premium blend of whey and isolate proteins engineered to fuel your muscles for unparalleled growth, strength, and performance.                     Tailored for both men and women, Nitro-Tech packs a powerful punch with 5.2g of glutamine and precursor, 6.7g of essential BCAAs, and a clinically proven 3g dose of HPLC-tested creatine monohydrate. This dynamic combination works synergistically to sculpt lean muscle, amplify strength, and unleash peak performance.                                                                  Backed by a six-week, double-blind study, Nitro-Tech outshone conventional whey, demonstrating a remarkable 70% increase in lean muscle gain (8.8 vs 5.1 lbs) and a substantial boost in bench press performance (34 vs 14 lbs). Transform your physique and redefine your limits with Nitro-Tech's revolutionary muscle-building formula. Featuring pure, HPLC-tested creatine monohydrate, Nitro-Tech empowers you to push past barriers, replenishing ATP stores for enhanced endurance, muscle growth, and strength gains. With its rapid absorption and easy digestion, Nitro-Tech's whey peptides ensure swift recovery, accelerated muscle repair, and superior results from every training session. Experience the ultimate in muscle-building innovation with MuscleTech Nitro-Tech Whey Protein Powder. Unleash your potential, surpass your goals, and sculpt the physique you've always dreamed of.",
+    "category": "Whey Protein",
+    "images": [
+      "https://www.muscletech.in/wp-content/uploads/2023/12/nitro-tech-cappuccino-907g-2.webp",
+      "https://www.muscletech.in/wp-content/uploads/2023/12/nitro-tech-cappuccino-907g-3.webp"
+    ],
+    "prices": [
+      {
+        "qty": "907",
+        "price": "2200",
+        "flavours": [
+          "Cappuccino",
+          "Cookie & Cream",
+          "Vanilla Cream",
+          "Milk Chocolate"
           ]
       },
       {
-        "qty": "4000",
-        "price": "5000",
+        "qty": "1800",
+        "price": "2700",
         "flavours": [
-          "Chocolate",
-          "Cookies & Cream"
+          "Cappuccino",
+          "Cookie & Cream",
+          "Vanilla Cream",
+          "Milk Chocolate"
           ]
       }
     ]
   }
+
+  
 ]
