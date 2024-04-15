@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Treadmill",
+    "image": "https://www.mepackfitness.com/assets/t.png"
+  },
+  {
+    "id": "2",
+    "name": "Spin Bike",
+    "image": "https://www.mepackfitness.com/assets/s.png"
+  },
+  {
+    "id": "3",
+    "name": "Pull ups tower",
+    "image": "https://www.mepackfitness.com/assets/pull_ups_tower.png"
+  },
+  {
+    "id": "4",
+    "name": "Multi press",
+    "image": "https://www.mepackfitness.com/assets/multi_press.png"
+  }
+]
