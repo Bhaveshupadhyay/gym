@@ -1,0 +1,85 @@
+[
+  {
+    "product_title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "product_image": [
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    ],
+    "product_price": 109.95,
+    "product_features": [
+      "Durable and weather-resistant fabric",
+      "Padded laptop sleeve (fits 15-inch laptops)",
+      "Multiple pockets for organizing your gear",
+      "Sleek and minimalist design"
+    ],
+    "product_description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday items in the main compartment, and go about your day with ease.",
+    "rating": 4.5,
+    "reviews": 150,
+    "date": "2024-02-25"
+  },
+  {
+    "product_title": "Classic White T-Shirt",
+    "product_image": [
+      "https://fakestoreapi.com/img/t-shirt.jpg",
+      "https://fakestoreapi.com/img/t-shirt.jpg",
+      "https://fakestoreapi.com/img/t-shirt.jpg",
+      "https://fakestoreapi.com/img/t-shirt.jpg",
+      "https://fakestoreapi.com/img/t-shirt.jpg"
+    ],
+    "product_price": 20,
+    "product_features": [
+      "100% cotton",
+      "Soft and breathable fabric",
+      "Classic fit with crew neck"
+    ],
+    "product_description": "A simple yet comfortable white t-shirt that goes with any outfit. Made with soft cotton, it's ideal for warm weather or layering in the cooler months.",
+    "rating": 4.0,
+    "reviews": 85,
+    "date": "2024-01-15"
+  },
+  {
+    "product_title": "Wireless Bluetooth Headphones",
+    "product_image": [
+      "https://fakestoreapi.com/img/headphones.jpg",
+      "https://fakestoreapi.com/img/headphones.jpg",
+      "https://fakestoreapi.com/img/headphones.jpg",
+      "https://fakestoreapi.com/img/headphones.jpg",
+      "https://fakestoreapi.com/img/headphones.jpg"
+    ],
+    "product_price": 49.99,
+    "product_features": [
+      "Bluetooth connectivity",
+      "Noise-canceling technology",
+      "Up to 12 hours of battery life",
+      "Comfortable ear padding"
+    ],
+    "product_description": "These wireless Bluetooth headphones provide superior sound quality with noise-canceling technology for an immersive listening experience. Perfect for work, travel, or relaxation.",
+    "rating": 4.2,
+    "reviews": 120,
+    "date": "2024-03-10"
+  },
+  {
+    "product_title": "Smart Fitness Watch",
+    "product_image": [
+      "https://fakestoreapi.com/img/smartwatch.jpg",
+      "https://fakestoreapi.com/img/smartwatch.jpg",
+      "https://fakestoreapi.com/img/smartwatch.jpg",
+      "https://fakestoreapi.com/img/smartwatch.jpg",
+      "https://fakestoreapi.com/img/smartwatch.jpg"
+    ],
+    "product_price": 79.99,
+    "product_features": [
+      "Heart rate monitor",
+      "Step counter and calorie tracker",
+      "Customizable watch faces",
+      "Water-resistant"
+    ],
+    "product_description": "Keep track of your health and fitness with this smart watch that monitors your heart rate, tracks your steps, and syncs with your phone to provide real-time updates.",
+    "rating": 4.6,
+    "reviews": 200,
+    "date": "2024-02-20"
+  }
+]
